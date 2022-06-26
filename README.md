@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ## Overview
-This challenge focused mainly on the Amazon Vine Program. Our end goal was to determine if there is a bias toward favourable reviews from Vine members. We decided to focus our data on the US Reviews of music. Through this analysis we used tool such as PySpark to perform ETL Processes on the dataset we worked with. We extracted the data, transformed the data, and then connected the data to an AWS RSD instance. From there we loaded the data intp pgAdmin to calcute certain metrics. 
+This challenge focused mainly on the Amazon Vine Program. Our end goal was to determine if there is a bias toward favourable reviews from Vine members. We decided to focus our data on the US Reviews of music. Through this analysis we used tools such as PySpark to perform ETL Processes on the dataset we worked with. We extracted the data, transformed the data, and then connected the data to an AWS RSD instance. From there we loaded the data into pgAdmin to calcute certain metrics. 
 ## Results
 Below, is an image that shows the following metrics, total number of vine and non-vine reviews, total number of vine and non-vine 5 star reviews, and the percentage of 5 star reviews from vine and non-vine members.
 
